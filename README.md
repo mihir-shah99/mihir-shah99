@@ -63,7 +63,6 @@ Contributing to various open-source projects to foster community-driven developm
 ## 📈 GitHub Stats
 
 ![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihir-shah99&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-shah99&layout=compact&theme=radical)
 
 ## 📝 Blog
 
@@ -78,6 +77,4 @@ I'm always open to connecting with like-minded professionals and enthusiasts. Fe
 [![Email](https://img.shields.io/badge/Email-mihir%40mihirshah.tech-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mihir@mihirshah.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihir-shah99/)
 [![Twitter](https://img.shields.io/badge/Twitter-@mihirshah99-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mihirshah99)
-
----
 
