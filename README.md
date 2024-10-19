@@ -30,7 +30,7 @@ I'm **Mihir Shah**, author of the [**Cloud Native Software Security Handbook**](
 ### 🌟 [Cloud Native Software Security Handbook](https://github.com/PacktPublishing/Cloud-Native-Software-Security-Handbook).
 A comprehensive guide to securing cloud-native applications, covering best practices, tools, and strategies to safeguard your software in today's dynamic cloud environments.
 
-![Book Cover](https://images.app.goo.gl/cbL7wiBPHi37VD6J6)
+<a href="https://www.packtpub.com/product/cloud-native-software-security-handbook/9781837636983"><img src="https://content.packt.com/B19675/cover_image_small.jpg" alt="Cloud Native Software Security Handbook" height="256px" align="center"></a>
 
 ## 🎤 Speaking Engagements
 
@@ -45,15 +45,15 @@ I’ve delivered talks at various conferences and meetups on topics such as:
 
 ## 💼 Projects
 
-### 🔒 [CloudSec Toolkit](https://github.com/mihir-shah99/cloudsec-toolkit)
-A collection of tools and scripts designed to enhance the security of cloud-native applications.
+### 🔒 [Touch2FA Authentication](https://github.com/touch2fa/touch2fa)
+The Next Generation of Two-Factor Authentication.
 
-![CloudSec Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=mihir-shah99&repo=cloudsec-toolkit&theme=radical)
+![Touch2FA](https://github-readme-stats.vercel.app/api/pin/?username=touch2fa&repo=touch2fa&theme=radical)
 
-### 🤖 [DevOps Automation Scripts](https://github.com/mihir-shah99/devops-automation)
-Automate your DevOps workflows with these scripts for continuous integration and deployment.
+### 🤖 [VulnDroid Securiy Toolkit Scripts](https://github.com/mihir-shah99/VulnDroid)
+Learn about Android Security, by trying out the CTF challenges in this intentionally vulnerable app.
 
-![DevOps Automation Scripts](https://github-readme-stats.vercel.app/api/pin/?username=mihir-shah99&repo=devops-automation&theme=radical)
+![VulnDroid Security Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=mihir-shah99&repo=VulnDroid&theme=radical)
 
 ### 🌍 [Open Source Contributions](https://github.com/mihir-shah99?tab=stars)
 Contributing to various open-source projects to foster community-driven development.
