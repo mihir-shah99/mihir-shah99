@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mihir Shah
+# 👋 Hi there, I'm Mihir Shah!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mihir-shah99&color=brightgreen)
 [![GitHub Followers](https://img.shields.io/github/followers/mihir-shah99?label=Follow&style=social)](https://github.com/mihir-shah99)
